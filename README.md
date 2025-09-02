@@ -145,7 +145,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
         
         * OneUI 2.5
 
-    * OriginOS（极度稀缺）
+    * OriginOS（数量稀少）
+
+        * OriginOS5
 
         * OriginOS4
 
