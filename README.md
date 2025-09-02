@@ -143,7 +143,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MyOS 12.0.14
 
-    * nubiaUI（待补充）
+    * nubiaUI（极度稀缺）
+
+        * nubiaUI 1.0
 
     * OneUI（高版本饱和，低版本稀缺）
 
