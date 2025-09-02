@@ -65,6 +65,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
     * HarmonyOS（数量饱和）
 
+        * HarmonyOS 4.3.0
+
         * HarmonyOS 4.2.0
         
         * HarmonyOS 4.0.0
@@ -76,7 +78,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
     * HyperOS（数量饱和）
 
         * HyperOS 2.0.214.0
-        
+
+        * HyperOS 2.0.212.0
+
         * HyperOS 2.0.208.0
         
         * HyperOS 2.0.205.0
@@ -112,15 +116,19 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
         * MIUI 14.0.7
         
         * MIUI 14.0.4
-        
+
+        * MIUI 14.0.1
+
         * MIUI 13.0.12
-        
+
+        * MIUI 13.0.8
+
         * MIUI 13.0.3
-        
+
         * MIUI 12.5.6
-        
+
         * MIUI 10.3.2
-        
+
         * MIUI 10.1.1.0
 
     * MyOS（极度稀缺）
@@ -144,6 +152,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
         * OneUI 5.0
         
         * OneUI 2.5
+
+        * OneUI 1.0
 
     * OriginOS（数量稀少）
 
@@ -173,9 +183,11 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * ZUI 3.5.91
 
-    * ZUXOS（待补充）
+    * ZUXOS（极度稀缺）
 
-    * 其他漏掉的 Os（待补充）
+        * ZUXOS 1.1.350
+
+  * 其他漏掉的 Os（待补充）
 
 * 大家可以看一下自己的手头的设备，看一下是不是属于上述欠缺的 Os 系统或者 Os 版本，如果是的话可以提交一下给我，样本越多  [DeviceCompat](https://github.com/getActivity/DeviceCompat) 判断准确度会越高，判断效率也会提高，当然你如果嫌弃通过 Pull request 提交太麻烦，你也可以上传到这个项目 [issue](https://github.com/getActivity/AndroidSystemPropertyCollect/issues/new) 区也是可以的。
 
