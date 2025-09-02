@@ -23,6 +23,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
         
         * ColorOS 11.1
 
+        * ColorOS 7.1
+
     * EMUI（高版本饱和，低版本稀缺）
 
         * EMUI 11.0.0
@@ -107,7 +109,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MifavorUI 10.1
 
-    * MIUI（高版本饱和，低版本稀缺）
+    * MIUI（高版本饱和，需要补充 MIUI 9 及以下的）
+
+        * MIUI 14.0.18
 
         * MIUI 14.0.10
         
@@ -128,6 +132,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
         * MIUI 13.0.3
 
         * MIUI 12.5.6
+
+        * MIUI 12.5.3
 
         * MIUI 10.3.2
 
