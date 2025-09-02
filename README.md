@@ -119,6 +119,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MIUI 14.0.1
 
+        * MIUI 13.0.26
+
         * MIUI 13.0.12
 
         * MIUI 13.0.8
@@ -161,9 +163,11 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * OriginOS4
 
-    * OxygenOS（极度稀缺）
+    * OxygenOS（数量稀少）
 
         * OxygenOS 14.0
+
+        * OxygenOS 9.0.4
 
     * RealmeUI（极度稀缺）
 
