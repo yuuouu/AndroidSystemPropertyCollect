@@ -13,36 +13,38 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * 360UI 3.0
 
-    * ColorOS（数量稀少）
+    * ColorOS（`14.* ~ 15.*` 版本饱和，其他版本稀缺）
 
         * ColorOS 15.0
+
+        * ColorOS 14.0
 
         * ColorOS 13.1
 
         * ColorOS 11.2
-        
+
         * ColorOS 11.1
 
         * ColorOS 7.1
 
         * ColorOS 3.0
 
-    * EMUI（高版本饱和，低版本稀缺）
+    * EMUI（`8.* ~ 11.*` 版本饱和，其他版本稀缺）
 
         * EMUI 11.0.0
-        
+
         * EMUI 10.1.0
-        
+
         * EMUI 10.0.1
-        
+
         * EMUI 10.0.0
-        
+
         * EMUI 9.1.1
-        
+
         * EMUI 9.1.0
-        
+
         * EMUI 9.0.0
-        
+
         * EMUI 8.0.0
 
     * EUI（极度稀缺）
@@ -52,9 +54,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
     * Flyme（数量稀少）
 
         * Flyme 12.1.0.0
-        
+
         * Flyme 10.5.0.1
-        
+
         * Flyme 8.1.8.0
 
     * FuntouchOS（极度稀缺）
@@ -64,68 +66,74 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
     * H2OS（数量稀少）
 
         * H2OS 11.1.2.2
-        
+
         * H2OS 9.0.11
 
-    * HarmonyOS（数量饱和）
+    * HarmonyOS（`2.0.* ~ 4.3.*` 版本饱和，其他版本稀缺）
 
         * HarmonyOS 4.3.0
 
         * HarmonyOS 4.2.0
-        
+
         * HarmonyOS 4.0.0
-        
+
         * HarmonyOS 3.0.0
-        
+
         * HarmonyOS 2.0.0
 
-    * HyperOS（数量饱和）
+    * HyperOS（`1.* ~ 2.*` 版本饱和，其他版本稀缺）
 
         * HyperOS 2.0.214.0
 
         * HyperOS 2.0.212.0
 
         * HyperOS 2.0.208.0
-        
+
         * HyperOS 2.0.205.0
-        
+
         * HyperOS 2.0.203.0
-        
+
+        * HyperOS 2.0.6.0
+
+        * HyperOS 2.0.1.0
+
         * HyperOS 1.0.10.0
-        
+
         * HyperOS 1.0.6.0
-        
+
         * HyperOS 1.0.3.0
 
     * MagicOS/MagicUI（数量稀少）
 
         * MagicOS 9.0
-        
+
         * MagicUI 6.1
-        
+
         * MagicUI 3.1.1
-        
+
         * MagicUI 3.0.1
 
     * MifavorUI（极度稀缺）
 
         * MifavorUI 10.1
 
-    * MIUI（高版本饱和，需要补充 MIUI 9 及以下的）
+    * MIUI（`10.x ~ 14.*` 版本饱和，其他版本稀缺）
 
         * MIUI 14.0.18
 
         * MIUI 14.0.10
-        
+
         * MIUI 14.0.9（MIUI Global）
-        
+
         * MIUI 14.0.7（MIUI Global）
-        
+
         * MIUI 14.0.4
 
         * MIUI 14.0.1
 
         * MIUI 13.0.26
+
+        * MIUI 13.0.16
 
         * MIUI 13.0.12
 
@@ -151,25 +159,25 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * nubiaUI 1.0
 
-    * OneUI（高版本饱和，低版本稀缺）
+    * OneUI（`5.* ~ 8.*` 版本饱和，其他版本稀缺）
 
         * OneUI 8.0
-        
+
         * OneUI 7.0
-        
+
         * OneUI 6.1
-        
+
         * OneUI 5.1.1
-        
+
         * OneUI 5.1
-        
+
         * OneUI 5.0
-        
+
         * OneUI 2.5
 
         * OneUI 1.0
 
-    * OriginOS（数量稀少）
+    * OriginOS（`4.* ~ 5.*` 版本饱和，其他版本稀缺）
 
         * OriginOS5
 
@@ -192,7 +200,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
     * SmartisanOS（数量稀少）
 
         * SmartisanOS 8.0.2
-        
+
         * SmartisanOS 6.6.6.2
 
     * ZUI（极度稀缺）
