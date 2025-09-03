@@ -151,6 +151,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MIUI 10.3.2（MIUI by xiaomi.eu）
 
+        * MIUI 10.9.8.22
+
         * MIUI 10.1.1.0
 
         * MIUI 9.2.4.0
