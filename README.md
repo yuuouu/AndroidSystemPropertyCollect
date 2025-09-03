@@ -109,6 +109,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MagicOS 9.0
 
+        * MagicUI 7.1
+
         * MagicUI 7.0
 
         * MagicUI 6.1
@@ -157,7 +159,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MIUI 9.2.4.0
 
-    * MyOS（极度稀缺）
+    * MyOS（数量稀少）
+
+        * MyOS 14.5.33
 
         * MyOS 12.0.14
 
