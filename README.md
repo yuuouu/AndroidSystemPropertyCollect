@@ -59,7 +59,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * Flyme 8.1.8.0
 
-    * FuntouchOS（极度稀缺）
+    * FuntouchOS（数量稀少）
+
+        * FuntouchOS 10
 
         * FuntouchOS 4.0
 
@@ -106,6 +108,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
     * MagicOS/MagicUI（数量稀少）
 
         * MagicOS 9.0
+
+        * MagicUI 7.0
 
         * MagicUI 6.1
 
@@ -189,9 +193,11 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * OxygenOS 9.0.4
 
-    * RealmeUI（极度稀缺）
+    * realmeUI（数量稀少）
 
-        * RealmeUI 6.0
+        * realmeUI 6.0
+
+        * realmeUI 3.0
 
     * RedMagicOS（极度稀缺）
 
