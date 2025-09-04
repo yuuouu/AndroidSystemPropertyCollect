@@ -51,6 +51,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * EUI 6.0.030
 
+        * EUI 5.9.026
+
     * Flyme（数量稀少）
 
         * Flyme 12.1.0.0
@@ -119,9 +121,11 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MagicUI 3.0.1
 
-    * MifavorUI（极度稀缺）
+    * MifavorUI（数量稀少）
 
         * MifavorUI 10.1
+
+        * MiFavorUI 4.0
 
     * MIUI（`10.x ~ 14.*` 版本饱和，其他版本稀缺）
 
@@ -203,15 +207,23 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * realmeUI 6.0
 
+        * realmeUI 4.0
+
         * realmeUI 3.0
 
-    * RedMagicOS（极度稀缺）
+    * RedMagicOS（数量稀少）
+
+        * RedMagicOS 10.0.24
 
         * RedMagicOS 10.0.12
+
+        * RedMagicOS 6.0
 
     * SmartisanOS（数量稀少）
 
         * SmartisanOS 8.0.2
+
+        * SmartisanOS 6.7.4.3
 
         * SmartisanOS 6.6.6.2
 
