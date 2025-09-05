@@ -7,13 +7,13 @@ MIUI 12.5.6 Android 11 Xiaomi 9.txt
 MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 ```
 
-* 然后通过 [Pull request](https://github.com/getActivity/AndroidSystemPropertyCollect/pulls) 提交给当前的项目，目前各大厂商 Os 系统属性收集情况如下，欢迎大家补充：
+* 然后通过 [Pull request](https://github.com/getActivity/AndroidSystemPropertyCollect/pulls) 提交给当前的项目，目前[各大厂商 Os 系统](https://zh.wikipedia.org/wiki/%E5%AE%A2%E8%A3%BD%E5%8C%96Android%E9%9F%8C%E9%AB%94%E5%88%97%E8%A1%A8)属性收集情况如下，欢迎大家补充：
 
-    * 360UI（极度稀缺）
+    * [360UI](https://baike.baidu.com/search?enc=utf8&word=360%20OS)（所有版本都极度稀缺）
 
         * 360UI 3.0
 
-    * ColorOS（`14.* ~ 15.*` 版本饱和，其他版本稀缺）
+    * [ColorOS](https://zh.wikipedia.org/wiki/ColorOS)（`14.* ~ 15.*` 版本饱和，其他版本稀缺）
 
         * ColorOS 15.0
 
@@ -29,7 +29,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * ColorOS 3.0
 
-    * EMUI（`8.* ~ 11.*` 版本饱和，其他版本稀缺）
+    * [EMUI](https://zh.wikipedia.org/wiki/EMUI)（`8.* ~ 11.*` 版本饱和，其他版本稀缺）
 
         * EMUI 11.0.0
 
@@ -47,13 +47,13 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * EMUI 8.0.0
 
-    * EUI（极度稀缺）
+    * [EUI](https://baike.baidu.com/item/EUI/17205923#1)（极度稀缺）
 
         * EUI 6.0.030
 
         * EUI 5.9.026
 
-    * Flyme（数量稀少）
+    * [Flyme](https://zh.wikipedia.org/wiki/Flyme)（数量稀少）
 
         * Flyme 12.1.0.0
 
@@ -61,19 +61,19 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * Flyme 8.1.8.0
 
-    * FuntouchOS（数量稀少）
+    * [FuntouchOS](https://zh.wikipedia.org/wiki/Funtouch_OS)（数量稀少）
 
         * FuntouchOS 10
 
         * FuntouchOS 4.0
 
-    * H2OS（数量稀少）
+    * [H2OS](https://zh.wikipedia.org/wiki/%E6%B0%A2OS)（数量稀少）
 
         * H2OS 11.1.2.2
 
         * H2OS 9.0.11
 
-    * HarmonyOS（`2.0.* ~ 4.3.*` 版本饱和，其他版本稀缺）
+    * [HarmonyOS](https://zh.wikipedia.org/wiki/%E9%B8%BF%E8%92%99_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F))（`2.0.* ~ 4.3.*` 版本饱和，其他版本稀缺）
 
         * HarmonyOS 4.3.0
 
@@ -85,7 +85,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * HarmonyOS 2.0.0
 
-    * HyperOS（`1.* ~ 2.*` 版本饱和，其他版本稀缺）
+    * [HyperOS](https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS)（`1.* ~ 2.*` 版本饱和，其他版本稀缺）
 
         * HyperOS 2.0.214.0
 
@@ -97,9 +97,13 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * HyperOS 2.0.203.0
 
+        * HyperOS 2.0.8.0
+
         * HyperOS 2.0.6.0
 
         * HyperOS 2.0.1.0
+
+        * HyperOS 1.0.14.0
 
         * HyperOS 1.0.10.0
 
@@ -107,7 +111,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * HyperOS 1.0.3.0
 
-    * MagicOS/MagicUI（数量稀少）
+    * [MagicOS/MagicUI](https://en.wikipedia.org/wiki/Honor_(brand)#History_2)（数量稀少）
 
         * MagicOS 9.0
 
@@ -121,13 +125,13 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MagicUI 3.0.1
 
-    * MifavorUI（数量稀少）
+    * [MifavorUI](https://baike.baidu.com/item/%E4%B8%AD%E5%85%B4%E6%89%8B%E6%9C%BA)（数量稀少）
 
         * MifavorUI 10.1
 
         * MiFavorUI 4.0
 
-    * MIUI（`10.x ~ 14.*` 版本饱和，其他版本稀缺）
+    * [MIUI](https://zh.wikipedia.org/wiki/MIUI)（`10.x ~ 14.*` 版本饱和，其他版本稀缺）
 
         * MIUI 14.0.18
 
@@ -155,6 +159,10 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MIUI 12.5.3
 
+        * MIUI 12.0.15
+
+        * MIUI 11.0.5
+
         * MIUI 10.3.2（MIUI by xiaomi.eu）
 
         * MIUI 10.9.8.22
@@ -163,17 +171,17 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MIUI 9.2.4.0
 
-    * MyOS（数量稀少）
+    * [MyOS](https://baike.baidu.com/search?word=MyOS&rn=10)（数量稀少）
 
         * MyOS 14.5.33
 
         * MyOS 12.0.14
 
-    * nubiaUI（极度稀缺）
+    * [nubiaUI](https://baike.baidu.com/search?word=nubiaUI)（极度稀缺）
 
         * nubiaUI 1.0
 
-    * OneUI（`5.* ~ 8.*` 版本饱和，其他版本稀缺）
+    * [OneUI](https://zh.wikipedia.org/wiki/One_UI)（`5.* ~ 8.*` 版本饱和，其他版本稀缺）
 
         * OneUI 8.0
 
@@ -191,19 +199,19 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * OneUI 1.0
 
-    * OriginOS（`4.* ~ 5.*` 版本饱和，其他版本稀缺）
+    * [OriginOS](https://zh.wikipedia.org/wiki/Origin_OS)（`4.* ~ 5.*` 版本饱和，其他版本稀缺）
 
         * OriginOS5
 
         * OriginOS4
 
-    * OxygenOS（数量稀少）
+    * [OxygenOS](https://baike.baidu.com/item/%E6%B0%A7OS/17141141)（数量稀少）
 
         * OxygenOS 14.0
 
         * OxygenOS 9.0.4
 
-    * realmeUI（数量稀少）
+    * [realmeUI](https://baike.baidu.com/item/realme%20UI/58770376)（数量稀少）
 
         * realmeUI 6.0
 
@@ -211,7 +219,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * realmeUI 3.0
 
-    * RedMagicOS（数量稀少）
+    * [RedMagicOS](https://en.wikipedia.org/wiki/Nubia_Technology)（数量稀少）
 
         * RedMagicOS 10.0.24
 
@@ -219,7 +227,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * RedMagicOS 6.0
 
-    * SmartisanOS（数量稀少）
+    * [SmartisanOS](https://en.wikipedia.org/wiki/Smartisan)（数量稀少）
 
         * SmartisanOS 8.0.2
 
@@ -237,7 +245,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
   * 其他漏掉的 Os（待补充）
 
-* 大家可以看一下自己的手头的设备，看一下是不是属于上述欠缺的 Os 系统或者 Os 版本，如果是的话可以提交一下给我，样本越多  [DeviceCompat](https://github.com/getActivity/DeviceCompat) 判断准确度会越高，判断效率也会提高，当然你如果嫌弃通过 Pull request 提交太麻烦，你也可以上传到这个项目 [issue](https://github.com/getActivity/AndroidSystemPropertyCollect/issues/new) 区也是可以的。
+* 大家可以看一下自己的手头的设备，看一下是不是属于上述欠缺的 Os 系统或者 Os 版本，如果是的话可以提交一下给我，一定要欠缺的才要，如果是上面已经有的 Os 版本或者已经饱和的 Os 版本范围就不要提交了，样本覆盖程度越高 [DeviceCompat](https://github.com/getActivity/DeviceCompat) 判断准确度会越高，判断效率也会提高，当然你如果嫌弃通过 Pull request 提交太麻烦，你也可以上传到这个项目 [issue](https://github.com/getActivity/AndroidSystemPropertyCollect/issues/new) 区也是可以的。
 
 * 喝水不忘挖井人，希望大家在喝到水的同时，能够停下来帮忙挖一铲是最好不过的，涓涓细水汇成江河，我深知这口井仅凭我一个人是无法挖好，需要借助大家的力量才有可能。
 
