@@ -199,11 +199,13 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * OneUI 1.0
 
-    * [OriginOS](https://zh.wikipedia.org/wiki/Origin_OS)（`4.* ~ 5.*` 版本饱和，其他版本稀缺）
+    * [OriginOS](https://zh.wikipedia.org/wiki/Origin_OS)（`3.* ~ 5.*` 版本饱和，其他版本稀缺）
 
         * OriginOS5
 
         * OriginOS4
+
+        * OriginOS3
 
     * [OxygenOS](https://baike.baidu.com/item/%E6%B0%A7OS/17141141)（数量稀少）
 
