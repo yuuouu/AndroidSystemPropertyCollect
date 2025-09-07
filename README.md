@@ -13,7 +13,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * 360UI 3.0
 
-    * [ColorOS](https://zh.wikipedia.org/wiki/ColorOS)（`14.* ~ 15.*` 版本饱和，其他版本稀缺）
+    * [ColorOS](https://zh.wikipedia.org/wiki/ColorOS)（14.x ~ 15.x 版本饱和，其他版本稀缺）
 
         * ColorOS 15.0
 
@@ -29,23 +29,31 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * ColorOS 3.0
 
-    * [EMUI](https://zh.wikipedia.org/wiki/EMUI)（`8.* ~ 11.*` 版本饱和，其他版本稀缺）
+    * [EMUI](https://zh.wikipedia.org/wiki/EMUI)（8.x ~ 11.x 版本饱和，其他版本稀缺）
 
-        * EMUI 11.0.0
+        * EMUI 11.x
 
-        * EMUI 10.1.0
+            * 11.0.0
 
-        * EMUI 10.0.1
+        * EMUI 10.x
 
-        * EMUI 10.0.0
+            * 10.1.0
 
-        * EMUI 9.1.1
+            * 10.0.1
 
-        * EMUI 9.1.0
+            * 10.0.0
 
-        * EMUI 9.0.0
+        * EMUI 9.x
 
-        * EMUI 8.0.0
+            * 9.1.1
+
+            * 9.1.0
+
+            * 9.0.0
+
+        * EMUI 8.x
+
+            * 8.0.0
 
     * [EUI](https://baike.baidu.com/item/EUI/17205923#1)（极度稀缺）
 
@@ -73,7 +81,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * H2OS 9.0.11
 
-    * [HarmonyOS](https://zh.wikipedia.org/wiki/%E9%B8%BF%E8%92%99_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F))（`2.0.* ~ 4.3.*` 版本饱和，其他版本稀缺）
+    * [HarmonyOS](https://zh.wikipedia.org/wiki/%E9%B8%BF%E8%92%99_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F))（2.0.x ~ 4.3.x 版本饱和，其他版本稀缺）
 
         * HarmonyOS 4.3.0
 
@@ -85,31 +93,35 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * HarmonyOS 2.0.0
 
-    * [HyperOS](https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS)（`1.* ~ 2.*` 版本饱和，其他版本稀缺）
+    * [HyperOS](https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS)（1.x ~ 2.x 版本饱和，其他版本稀缺）
 
-        * HyperOS 2.0.214.0
+        * HyperOS 2.x
 
-        * HyperOS 2.0.212.0
+            * 2.0.214.0
 
-        * HyperOS 2.0.208.0
+            * 2.0.212.0
 
-        * HyperOS 2.0.205.0
+            * 2.0.208.0
 
-        * HyperOS 2.0.203.0
+            * 2.0.205.0
 
-        * HyperOS 2.0.8.0
+            * 2.0.203.0
 
-        * HyperOS 2.0.6.0
+            * 2.0.8.0
 
-        * HyperOS 2.0.1.0
+            * 2.0.6.0
 
-        * HyperOS 1.0.14.0
+            * 2.0.1.0
 
-        * HyperOS 1.0.10.0
+        * HyperOS 1.x
 
-        * HyperOS 1.0.6.0
+            * 1.0.14.0
 
-        * HyperOS 1.0.3.0
+            * 1.0.10.0
+
+            * 1.0.6.0
+
+            * 1.0.3.0
 
     * [MagicOS/MagicUI](https://en.wikipedia.org/wiki/Honor_(brand)#History_2)（数量稀少）
 
@@ -131,45 +143,57 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MiFavorUI 4.0
 
-    * [MIUI](https://zh.wikipedia.org/wiki/MIUI)（`10.x ~ 14.*` 版本饱和，其他版本稀缺）
+    * [MIUI](https://zh.wikipedia.org/wiki/MIUI)（10.x ~ 14.x 版本饱和，其他版本稀缺）
 
-        * MIUI 14.0.18
+        * MIUI 14
 
-        * MIUI 14.0.10
+            * 14.0.18
 
-        * MIUI 14.0.9（MIUI Global）
+            * 14.0.10
 
-        * MIUI 14.0.7（MIUI Global）
+            * 14.0.9（MIUI Global）
 
-        * MIUI 14.0.4
+            * 14.0.7（MIUI Global）
 
-        * MIUI 14.0.1
+            * 14.0.4
 
-        * MIUI 13.0.26
+            * 14.0.1
 
-        * MIUI 13.0.16
+        * MIUI 13
 
-        * MIUI 13.0.12
+            * 13.0.26
 
-        * MIUI 13.0.8
+            * 13.0.16
 
-        * MIUI 13.0.3
+            * 13.0.12
 
-        * MIUI 12.5.6
+            * 13.0.8
 
-        * MIUI 12.5.3
+            * 13.0.3
 
-        * MIUI 12.0.15
+        * MIUI 12
 
-        * MIUI 11.0.5
+            * 12.5.6
 
-        * MIUI 10.3.2（MIUI by xiaomi.eu）
+            * 12.5.3
 
-        * MIUI 10.9.8.22
+            * 12.0.15
 
-        * MIUI 10.1.1.0
+        * MIUI 11
 
-        * MIUI 9.2.4.0
+            * 11.0.5
+
+        * MIUI 10
+
+            * 10.3.2（MIUI by xiaomi.eu）
+
+            * 10.9.8.22
+
+            * 10.1.1.0
+
+        * MIUI 9
+
+            * 9.2.4.0
 
     * [MyOS](https://baike.baidu.com/search?word=MyOS&rn=10)（数量稀少）
 
@@ -181,7 +205,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * nubiaUI 1.0
 
-    * [OneUI](https://zh.wikipedia.org/wiki/One_UI)（`5.* ~ 8.*` 版本饱和，其他版本稀缺）
+    * [OneUI](https://zh.wikipedia.org/wiki/One_UI)（5.x ~ 8.x 版本饱和，其他版本稀缺）
 
         * OneUI 8.0
 
@@ -199,9 +223,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * OneUI 1.0
 
-    * [OriginOS](https://zh.wikipedia.org/wiki/Origin_OS)（`3.* ~ 5.*` 版本饱和，其他版本稀缺）
+    * [OriginOS](https://zh.wikipedia.org/wiki/Origin_OS)（3.x ~ 5.x 版本饱和，其他版本稀缺）
 
-        * OriginOS5
+        * OriginOS 5
 
             * 15.2.15.1
 
@@ -209,11 +233,11 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
             * 15.0.18.12
 
-        * OriginOS4
+        * OriginOS 4
 
             * 14.2.6.5
 
-        * OriginOS3
+        * OriginOS 3
 
             * 13.0.9.4
 
