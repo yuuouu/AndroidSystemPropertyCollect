@@ -203,9 +203,19 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * OriginOS5
 
+            * 15.2.15.1
+
+            * 15.1.19.20
+
+            * 15.0.18.12
+
         * OriginOS4
 
+            * 14.2.6.5
+
         * OriginOS3
+
+            * 13.0.9.4
 
     * [OxygenOS](https://baike.baidu.com/item/%E6%B0%A7OS/17141141)（数量稀少）
 
