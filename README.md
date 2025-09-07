@@ -255,7 +255,7 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * ZUXOS 1.1.350
 
-  * 其他漏掉的 Os（待补充）
+    * 其他漏掉的 Os（待补充）
 
 * 大家可以看一下自己的手头的设备，看一下是不是属于上述欠缺的 Os 系统或者 Os 版本，如果是的话可以提交一下给我，一定要欠缺的才要，如果是上面已经有的 Os 版本或者已经饱和的 Os 版本范围就不要提交了，样本覆盖程度越高 [DeviceCompat](https://github.com/getActivity/DeviceCompat) 判断准确度会越高，判断效率也会提高，当然你如果嫌弃通过 Pull request 提交太麻烦，你也可以上传到这个项目 [issue](https://github.com/getActivity/AndroidSystemPropertyCollect/issues/new) 区也是可以的。
 
