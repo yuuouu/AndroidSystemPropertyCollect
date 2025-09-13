@@ -61,13 +61,35 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * EUI 5.9.026
 
-    * [Flyme](https://zh.wikipedia.org/wiki/Flyme)（数量稀少）
+    * [Flyme](https://zh.wikipedia.org/wiki/Flyme)（没有标注的版本稀缺）
 
-        * Flyme 12.1.0.0
+        * Flyme 12.x
 
-        * Flyme 10.5.0.1
+            * 12.1.0.0
 
-        * Flyme 8.1.8.0
+        * Flyme 11.x
+
+            * 11.2.1.0
+
+        * Flyme 10.x
+
+            * 10.5.0.1
+
+        * Flyme 8.x
+
+            * 8.1.8.0
+
+            * 8.0.5.0
+
+        * Flyme 7.x
+
+            * 7.1.5.2
+
+        * Flyme 6.x
+
+            * 6.3.5.0
+
+            * 6.2.0.2
 
     * [FuntouchOS](https://zh.wikipedia.org/wiki/Funtouch_OS)（数量稀少）
 
@@ -201,6 +223,18 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MyOS 12.0.14
 
+    * MYUI（数量稀少）
+
+        * MYUI 7.0
+
+        * MYUI 6.0
+
+        * MYUI 5.0
+
+    * NebulaAIOS（极度稀缺）
+
+        * NebulaAIOS 1.0.14
+
     * [nubiaUI](https://baike.baidu.com/search?word=nubiaUI)（极度稀缺）
 
         * nubiaUI 1.0
@@ -241,6 +275,10 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
             * 13.0.9.4
 
+        * OriginOS 1
+
+            * 9.16.42
+
     * [OxygenOS](https://baike.baidu.com/item/%E6%B0%A7OS/17141141)（数量稀少）
 
         * OxygenOS 14.0
@@ -263,19 +301,33 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * RedMagicOS 6.0
 
+    * ROGUI（极度稀缺）
+
+        * ROGUI 33.0210.0210.235
+
     * [SmartisanOS](https://en.wikipedia.org/wiki/Smartisan)（数量稀少）
 
         * SmartisanOS 8.0.2
 
         * SmartisanOS 6.7.4.3
 
+        * SmartisanOS 6.7.4.2
+
         * SmartisanOS 6.6.6.2
 
-    * ZUI（极度稀缺）
+        * SmartisanOS 4.2.6
+
+    * ZUI（数量稀少）
+
+        * ZUI 16.1.11.187
+
+        * ZUI 14.0.314
 
         * ZUI 3.5.91
 
     * ZUXOS（极度稀缺）
+
+        * ZUXOS 1.1.10.138
 
         * ZUXOS 1.1.350
 
